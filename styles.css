@@ -28,6 +28,11 @@ p {
     line-height: 1.6;
 }
 
+ul {
+    color: #555;
+    line-height: 1.6;
+}
+
 h1 {
     font-size: 60px;
 }
